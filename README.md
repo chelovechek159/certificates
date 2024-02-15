@@ -6,3 +6,4 @@
 5. [Client-Server](https://github.com/chelovechek159/certificates/blob/main/Yaroslav%20Evhimik_CLS.png)
 6. [GitHub](https://github.com/chelovechek159/certificates/blob/main/Yaroslav%20Evhimik_Git.png)
 7. [Terminal_linux](https://github.com/chelovechek159/certificates/blob/main/Yaroslav%20Evhimik_Terminal.png)
+8. [Testing course](https://github.com/chelovechek159/certificates/blob/main/Testing.pdf)
